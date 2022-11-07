@@ -1,39 +1,39 @@
 
 # Lab_1
 
-* ### What is the Command Line?
+* #### What is the Command Line?
 
 # Exercise Using the command line, do the following :
   
-* ### Create a new directory and name it “Flutter bootcamp”
+* #### Create a new directory and name it “Flutter bootcamp”
 
-* ### Go inside “Flutter bootcamp” directory
+* #### Go inside “Flutter bootcamp” directory
 
-* ### Create a new directory and name it “LAB-1”
+* #### Create a new directory and name it “LAB-1”
 
-* ### Go inside “LAB-1” directory - Create a new file “whoAmI.txt”
+* #### Go inside “LAB-1” directory - Create a new file “whoAmI.txt”
 
-* ### Open the new file , and write an introduction about yourself . Then save the file.
+* #### Open the new file , and write an introduction about yourself . Then save the file.
 
-* ### Create a directory and name it “misc”
+* #### Create a directory and name it “misc”
 
-* ### Go inside “misc” directory
+* #### Go inside “misc” directory
 
-* ### Create a new file “toDelete1.txt”
+* #### Create a new file “toDelete1.txt”
 
-* ### Create another file “toDelete2.txt”
+* #### Create another file “toDelete2.txt”
 
-* ### Go outside the current folder . Back to “Lab-1” directory
+* #### Go outside the current folder . Back to “Lab-1” directory
 
-* ### Delete the directory “misc” and all the files inside it .
+* #### Delete the directory “misc” and all the files inside it .
 
-* ### What is Git?
+* #### What is Git?
 
 # Exercise Using Git ,
 
-* ### what is the command to get the installed version of Git ?
+* #### what is the command to get the installed version of Git ?
 
-* ### what is the command to create a new local repository ?
+* #### what is the command to create a new local repository ?
 
-* ### what is the command for add one or more files to staging ?
+* #### what is the command for add one or more files to staging ?
 
