@@ -1,6 +1,27 @@
 
 # Homework 1: Terminal
 
+# Possible fixing:
+1. Commands erros:
+- Search
+- Install Cmder
+- Powershell
+2. Saving in nano:
+- Search
+- Use different program
+- vim, text editor, vs code
+- CRL+X, Y, ENTER
+3. Ceating Git repo:
+- You dont have git
+- Search
+- Install git
+- Watch https://satr.codes/courses/nindivqslr/view
+4. When pushing to GitHub:
+You will face to probelms:
+A. You need to login with your GitHub account in Git
+B. You need to configure your name and email in Git
+
+
 # Exercise:
 
 1. Print your current working directory
