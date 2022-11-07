@@ -1,39 +1,26 @@
 
-# Lab_1
+# Homework 1: Terminal
 
-* #### What is the Command Line?
+# Exercise:
 
-# Exercise Using the command line, do the following :
-  
-* #### Create a new directory and name it “Flutter bootcamp”
+1. Print your current working directory
 
-* #### Go inside “Flutter bootcamp” directory
+2. Create a new directory (aka folder) named `tuwaiq-flutter`
 
-* #### Create a new directory and name it “LAB-1”
+3. Change the directory to go inside `tuwaiq-flutter`
 
-* #### Go inside “LAB-1” directory - Create a new file “whoAmI.txt”
+4. Inside `tuwaiq-flutter`, create new files `aa.js`, `bb.py`, and `cc.c`
 
-* #### Open the new file , and write an introduction about yourself . Then save the file.
+5. Inside `tuwaiq-flutter`, Create a file called `whoAmI.txt`
 
-* #### Create a directory and name it “misc”
+6. Open the new file, and write an introduction about yourself. Then save the file.
 
-* #### Go inside “misc” directory
+7. Create a new git repo inside `tuwaiq-flutter`
 
-* #### Create a new file “toDelete1.txt”
+8. Create a new commit
 
-* #### Create another file “toDelete2.txt”
+9. Delete file `aa.js`, and create commit
 
-* #### Go outside the current folder . Back to “Lab-1” directory
+10. Delete file `bb.py`, and create commit
 
-* #### Delete the directory “misc” and all the files inside it .
-
-* #### What is Git?
-
-# Exercise Using Git ,
-
-* #### what is the command to get the installed version of Git ?
-
-* #### what is the command to create a new local repository ?
-
-* #### what is the command for add one or more files to staging ?
-
+11. Push to GitHub
