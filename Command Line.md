@@ -1,9 +1,9 @@
+
 # Lab_1
 
 ### What is the Command Line?
 
-# Exercise Using the command line ,
-  do the following :
+# Exercise Using the command line, do the following :
   
 ### Create a new directory and name it “Flutter bootcamp”
 
@@ -31,9 +31,9 @@
 
 # Exercise Using Git ,
 
-### hat is the command to get the installed version of Git?
+### what is the command to get the installed version of Git ?
 
 ### what is the command to create a new local repository ?
 
-### what is the command for add one or more files to staging :
+### what is the command for add one or more files to staging ?
 
